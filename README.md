@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Casey Dietz</h1>
-<h3 align="center">A passionate full stack engineer from Denver, CO</h3>
+<h3 align="center">A passionate Full stack engineer from Denver, CO</h3>
 
 - 🔭 I’m currently working on my [Task Manager API](https://github.com/casey-dietz/task-manager-api)
 
-- 🌱 I’m currently learning **algorithms and data structures**
+- 🌱 I’m currently learning about **algorithms and data structures**
 
 - 💬 Ask me about **react, node, and JavaScript**
 
