@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **algorithms and data structures**
 
-- 💬 Ask me about **react, node, and JavaScript**
+- 💬 Ask me about **React, Node, and JavaScript**
 
 - 📫 How to reach me **caseydietz20@gmail.com**
 
