@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1uInNPtl5qf_OU-9L9Sg7ha-xMI05odZuUhgszDGVoZ8/edit?usp=sharing](https://docs.google.com/document/d/1uInNPtl5qf_OU-9L9Sg7ha-xMI05odZuUhgszDGVoZ8/edit?usp=sharing)
 
-- ⚡ Fun fact **I love sports, finance, web development, and Bitcoin**
+- ⚡ Fun fact **I love sports, and learning about finance, web development, and Bitcoin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
