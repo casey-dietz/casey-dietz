@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Casey Dietz</h1>
 <h3 align="center">A passionate Full stack engineer from Denver, CO</h3>
 
-- 🔭 I’m currently working on my [Task Manager API](https://github.com/casey-dietz/task-manager-api)
+- 🔭 I’m currently working on my [Portfolio](https://github.com/casey-dietz/portfolio)
 
 - 🌱 I’m currently learning about **algorithms and data structures**
 
