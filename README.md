@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my [Portfolio](https://github.com/casey-dietz/portfolio)
 
-- 🌱 I’m currently learning about **algorithms and data structures**
+- 🌱 I’m currently learning about **data structures and algorithms**
 
 - 💬 Ask me about **React, Node, and JavaScript**
 
