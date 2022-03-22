@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Casey Dietz</h1>
-<h3 align="center">A passionate Full stack engineer from Denver, CO</h3>
+<h3 align="center">A Full stack engineer from Denver, CO</h3>
 
-- 🔭 I’m currently working on my [Task Manager app frontend](https://github.com/casey-dietz/task-manager-api)
+- 🔭 I’m currently working on my C# skills
 
-- 🌱 I’m currently learning about **data structures and algorithms**
+- 🌱 I’m currently learning about **C#, .NET, and Access Control**
 
-- 💬 Ask me about **JavaScript, React, and Node**
+- 💬 Ask me about **Next Generation Acces Control**
 
 - 📫 How to reach me **caseydietz20@gmail.com**
 
