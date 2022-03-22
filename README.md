@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my C# skills
 
-- 🌱 I’m currently learning about **C#, .NET, and Access Control**
+- 🌱 I’m currently learning about **C# .NET and Access Control**
 
 - 💬 Ask me about **Next Generation Acces Control**
 
