@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Casey Dietz</h1>
 <h3 align="center">A Full stack engineer from Denver, CO</h3>
 
-- 🔭 I’m currently working on my C# skills
+- 🔭 I’m currently working on my C# and Neo4J/Cypher skills
 
 - 🌱 I’m currently learning about **C# .NET and Access Control**
 
