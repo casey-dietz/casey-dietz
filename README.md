@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Casey Dietz</h1>
 <h3 align="center">A Full stack engineer from Denver, CO</h3>
 
-- 🔭 I’m currently working on my C# and Neo4J/Cypher skills
+- 🔭 I’m currently working on an Access Control platform
 
 - 🌱 I’m currently learning about **C# .NET and Access Control**
 
-- 💬 Ask me about **Next Generation Acces Control**
+- 💬 Ask me about **Next Generation Access Control**
 
 - 📫 How to reach me **caseydietz20@gmail.com**
 
